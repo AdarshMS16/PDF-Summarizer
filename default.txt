@@ -1,0 +1,1 @@
+link-state and distance vector algorithms are fundamental routing algorithms used in computer networks. each router constructs a detailed map of the entire network topology based on the information received from neighboring routers. advantages: link-state routing algorithms typically converge faster and are more efficient in large networks.
